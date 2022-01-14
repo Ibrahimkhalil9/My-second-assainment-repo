@@ -94,6 +94,43 @@ h3{
  
   
 }
+.box-1:hover{
+    transform:scale(1.2);
+    transition: transform 2s linear;
+}
+.box-8:hover{
+    transform:scale(1.2);
+    transition: transform 2s linear;
+}
+.box-9:hover{
+    transform:scale(1.2);
+    transition: transform 2s linear;
+}
+.box-2:hover{
+    transform:scale(1.2);
+    transition: transform 2s linear;
+}
+.box-3:hover{
+    transform:scale(1.2);
+    transition: transform 2s linear;
+}
+.box-4:hover{
+    transform:scale(1.2);
+    transition: transform 2s linear;
+}
+.box-5:hover{
+    transform:scale(1.2);
+    transition: transform 2s linear;
+}
+.box-6:hover{
+    transform:scale(1.2);
+    transition: transform 2s linear;
+}
+.box-7:hover{
+    transform:scale(1.2);
+    transition: transform 2s linear;
+}
+
 .blog-img{
     margin-top: 15px;
     margin-left: 15px;
@@ -114,7 +151,8 @@ font-style: normal;
 
 .icon{
     margin-top: 8px;
-     color: rgb(241, 129, 88);
+     color: rgb(248, 122, 77);
+     
 }
 p{
     font-size: 14px;
@@ -150,6 +188,10 @@ margin-left: 10px;
     margin-right: 80px;
     margin-top: 100px;
     margin-bottom: 50px;
+}
+.last-image:hover{
+    transform: rotate(360deg);
+    transition: transform 5s linear;
 }
 .last-pera{
     margin-top: 200px;
